@@ -73,6 +73,7 @@ def main():
         print "Test score ", i
         print "--> ", scoreList[i]
     #end for
+    #End Train and run MLP
 
     mean = 0
     for score in scoreList:
